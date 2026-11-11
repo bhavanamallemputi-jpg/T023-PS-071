@@ -1,0 +1,301 @@
+title_id,title,author,category,department,publication_year
+TTL-0001,Introduction to Control Systems,Spoorthi Sheikh,BOOK,EEE,1998
+TTL-0002,Introduction to Digital Communication,Rohit Prabhu,BOOK,ECE,2018
+TTL-0003,Indian Journal of Analytical Chemistry Vol 31 No 3,Sumanth Jain,JOURNAL,CHEM,2011
+TTL-0004,Applied Machine Design,Ganesh Kumar,BOOK,ME,2021
+TTL-0005,Handbook of Power Systems,Suresh Shetty,REFERENCE,EEE,2016
+TTL-0006,Handbook of Thermodynamics,Ramya Murthy,REFERENCE,ME,2009
+TTL-0007,Fundamentals of Solid State Physics,Varun Nair,BOOK,PHY,2000
+TTL-0008,Advanced Power Electronics,Tejas Sharma,BOOK,EEE,2022
+TTL-0009,Introduction to Database Systems,Sudha Prabhu,BOOK,CSE,2021
+TTL-0010,Handbook of Analytical Chemistry,Mary Hegde,REFERENCE,CHEM,2000
+TTL-0011,Advanced Concrete Technology,Lokesh Acharya,BOOK,CIVIL,2008
+TTL-0012,Fundamentals of Manufacturing Processes,Shivaraj Hegde,BOOK,ME,2014
+TTL-0013,Essentials of Analytical Chemistry,Naveen Chowdhury,BOOK,CHEM,2023
+TTL-0014,Principles of Heat Transfer,Pooja Setty,BOOK,ME,2018
+TTL-0015,Handbook of Optics,Shruthi Patil,REFERENCE,PHY,2001
+TTL-0016,Essentials of Operating Systems,Farhan Prabhu,BOOK,CSE,2023
+TTL-0017,Principles of Polymer Science,Rahul Khan,BOOK,CHEM,2015
+TTL-0018,Advanced Electrical Machines,Sindhu Shetty,BOOK,EEE,2019
+TTL-0019,Indian Journal of Concrete Technology Vol 35 No 2,Imran Joshi,JOURNAL,CIVIL,2008
+TTL-0020,Advanced Physical Chemistry,Anil Prabhu,BOOK,CHEM,2024
+TTL-0021,Handbook of Marketing Management,Sachin Bhat,REFERENCE,MBA,2023
+TTL-0022,Handbook of Heat Transfer,Harshitha Shetty,REFERENCE,ME,2003
+TTL-0023,Introduction to Manufacturing Processes,Nikhil Prabhu,BOOK,ME,2021
+TTL-0024,Modern Organic Chemistry,Pradeep Iyer,BOOK,CHEM,2019
+TTL-0025,Applied Quantum Mechanics,Girish Patil,BOOK,PHY,2002
+TTL-0026,Advanced Surveying,Mary Iyer,BOOK,CIVIL,2009
+TTL-0027,Fundamentals of Machine Design,Keerthi Kumar,BOOK,ME,2022
+TTL-0028,Indian Journal of Solid State Physics Vol 32 No 2,Basavaraj Shetty,JOURNAL,PHY,2011
+TTL-0029,Advanced Operating Systems,Deepak Naik,BOOK,CSE,2015
+TTL-0030,Principles of Structural Analysis,Swathi Shetty,BOOK,CIVIL,2014
+TTL-0031,Indian Journal of Organisational Behaviour Vol 22 No 3,Ayesha Acharya,JOURNAL,MBA,2003
+TTL-0032,Advanced Complex Analysis,Bhavana Setty,BOOK,MATH,2015
+TTL-0033,Indian Journal of Power Electronics Vol 12 No 2,Nandini Murthy,JOURNAL,EEE,2002
+TTL-0034,Indian Journal of Numerical Methods Vol 21 No 4,Vikram Chowdhury,JOURNAL,MATH,2015
+TTL-0035,Essentials of Web Technologies,Ananya Khan,BOOK,ISE,1999
+TTL-0036,PhD Thesis: Studies in Fluid Mechanics,Arjun Murthy,THESIS,ME,2022
+TTL-0037,Modern Power Electronics,Spoorthi Desai,BOOK,EEE,2005
+TTL-0038,NPTEL Lecture Series DVD: Numerical Methods,Lakshmi Sharma,DVD,MATH,2023
+TTL-0039,Handbook of Database Systems,Basavaraj Nair,REFERENCE,CSE,2023
+TTL-0040,Advanced Transportation Engineering,Keerthi Khan,BOOK,CIVIL,2009
+TTL-0041,Modern Compiler Design,Lokesh Gowda,BOOK,CSE,2002
+TTL-0042,A Textbook of Geotechnical Engineering,Anitha Joshi,BOOK,CIVIL,2005
+TTL-0043,Applied Operating Systems,Fathima Kamath,BOOK,CSE,2008
+TTL-0044,Introduction to Renewable Energy,Arjun Desai,BOOK,EEE,2004
+TTL-0045,Introduction to Thermodynamics,Kavya Iyer,BOOK,ME,2004
+TTL-0046,Advanced Marketing Management,Mary Setty,BOOK,MBA,2002
+TTL-0047,Essentials of Classical Mechanics,Ganesh Reddy,BOOK,PHY,2012
+TTL-0048,Essentials of Marketing Management,Girish Desai,BOOK,MBA,2024
+TTL-0049,Essentials of Classical Mechanics (3rd Edition),Santosh Sheikh,BOOK,PHY,2006
+TTL-0050,Advanced Information Security,Venkatesh Khan,BOOK,ISE,2024
+TTL-0051,Advanced Thermodynamics,Tejaswini Jain,BOOK,ME,2007
+TTL-0052,Applied VLSI Design,Rohit Prabhu,BOOK,ECE,2011
+TTL-0053,Principles of Physical Chemistry,Spoorthi Chowdhury,BOOK,CHEM,2009
+TTL-0054,Handbook of Concrete Technology,Sumanth Iyer,REFERENCE,CIVIL,2012
+TTL-0055,Fundamentals of Power Electronics,Anitha Chowdhury,BOOK,EEE,2002
+TTL-0056,Fundamentals of Thermodynamics,Fathima Jain,BOOK,ME,2020
+TTL-0057,Indian Journal of Optics Vol 43 No 3,Kiran Rao,JOURNAL,PHY,2000
+TTL-0058,Handbook of Structural Analysis,Priya Nair,REFERENCE,CIVIL,2013
+TTL-0059,Indian Journal of Web Technologies Vol 33 No 1,Girish Joshi,JOURNAL,ISE,2024
+TTL-0060,Principles of Web Technologies,Sindhu Hegde,BOOK,ISE,2008
+TTL-0061,Applied Geotechnical Engineering,Zoya Acharya,BOOK,CIVIL,2001
+TTL-0062,Advanced Business Analytics,Girish Reddy,BOOK,MBA,2016
+TTL-0063,Indian Journal of Organisational Behaviour Vol 40 No 2,Pavan Naik,JOURNAL,MBA,2018
+TTL-0064,Modern Complex Analysis,Tejaswini Hegde,BOOK,MATH,2019
+TTL-0065,Advanced Operating Systems (3rd Edition),Chaitra Hegde,BOOK,CSE,2006
+TTL-0066,A Textbook of Structural Analysis,Geetha Pillai,BOOK,CIVIL,1999
+TTL-0067,Principles of Manufacturing Processes,Sowmya Setty,BOOK,ME,2022
+TTL-0068,Introduction to Classical Mechanics,Meena Desai,BOOK,PHY,2016
+TTL-0069,Modern Optics,Asha Pillai,BOOK,PHY,2014
+TTL-0070,A Textbook of Transportation Engineering,Santosh Patil,BOOK,CIVIL,2017
+TTL-0071,Applied Structural Analysis,Rohit Sharma,BOOK,CIVIL,2013
+TTL-0072,Handbook of Digital Communication,Ramya Chowdhury,REFERENCE,ECE,2020
+TTL-0073,Advanced Control Systems,Bhavana Hegde,BOOK,EEE,2001
+TTL-0074,Fundamentals of VLSI Design,Zoya Agarwal,BOOK,ECE,2003
+TTL-0075,Modern Digital Communication,Sahana Chowdhury,BOOK,ECE,2016
+TTL-0076,Indian Journal of Classical Mechanics Vol 35 No 3,Varsha Setty,JOURNAL,PHY,2007
+TTL-0077,Modern Solid State Physics,Rohit Joshi,BOOK,PHY,2002
+TTL-0078,PhD Thesis: Studies in Data Mining,Tejaswini Yadav,THESIS,ISE,2025
+TTL-0079,Indian Journal of Quantum Mechanics Vol 35 No 1,Ravi Murthy,JOURNAL,PHY,2002
+TTL-0080,Essentials of Complex Analysis,Ganesh Jain,BOOK,MATH,2001
+TTL-0081,Applied Classical Mechanics,Harshitha Menon,BOOK,PHY,2009
+TTL-0082,Essentials of Organisational Behaviour,Suresh Gowda,BOOK,MBA,2004
+TTL-0083,NPTEL Lecture Series DVD: Discrete Mathematics,Mary Kamath,DVD,MATH,2017
+TTL-0084,Introduction to Organic Chemistry,Yashwanth Gowda,BOOK,CHEM,2020
+TTL-0085,PhD Thesis: Studies in Microwave Engineering,Kiran Yadav,THESIS,ECE,2008
+TTL-0086,Essentials of Power Systems,Mahesh Reddy,BOOK,EEE,2024
+TTL-0087,Essentials of Quantum Mechanics,Harshitha Joshi,BOOK,PHY,2018
+TTL-0088,A Textbook of Financial Management,Suresh Kulkarni,BOOK,MBA,2003
+TTL-0089,Handbook of Electrical Machines,Vidya Naik,REFERENCE,EEE,2000
+TTL-0090,PhD Thesis: Studies in Microwave Engineering Part 2,Vikram Rao,THESIS,ECE,2002
+TTL-0091,Modern Electrical Machines,Ananya Reddy,BOOK,EEE,2024
+TTL-0092,Modern Thermodynamics,Sowmya Sharma,BOOK,ME,2015
+TTL-0093,Indian Journal of Solid State Physics Vol 32 No 4,Sachin Acharya,JOURNAL,PHY,2002
+TTL-0094,Introduction to Renewable Energy (3rd Edition),Swathi Iyer,BOOK,EEE,2000
+TTL-0095,Applied Discrete Mathematics,Manoj Rao,BOOK,MATH,1998
+TTL-0096,Handbook of Machine Design,Varsha Desai,REFERENCE,ME,2011
+TTL-0097,A Textbook of Polymer Science,Sahana Reddy,BOOK,CHEM,2013
+TTL-0098,Applied Quantum Mechanics (2nd Edition),Shilpa Kulkarni,BOOK,PHY,2015
+TTL-0099,Modern Data Structures,Imran Singh,BOOK,CSE,2011
+TTL-0100,Handbook of VLSI Design,Mary Nair,REFERENCE,ECE,2009
+TTL-0101,Modern Cloud Computing,Anitha Bhat,BOOK,ISE,2008
+TTL-0102,Principles of Solid State Physics,Karthik Acharya,BOOK,PHY,2007
+TTL-0103,Essentials of Power Electronics,Shilpa Shetty,BOOK,EEE,2004
+TTL-0104,Principles of Quantum Mechanics,Ananya Kumar,BOOK,PHY,1999
+TTL-0105,Modern Heat Transfer,Darshan Gowda,BOOK,ME,2013
+TTL-0106,Modern Financial Management,Yashwanth Setty,BOOK,MBA,2002
+TTL-0107,NPTEL Lecture Series DVD: Heat Transfer,Girish Murthy,DVD,ME,2011
+TTL-0108,Essentials of Solid State Physics,Tejaswini Yadav,BOOK,PHY,2004
+TTL-0109,Principles of Compiler Design,Varun Pillai,BOOK,CSE,1999
+TTL-0110,Applied Numerical Methods,Shivaraj Kamath,BOOK,MATH,2001
+TTL-0111,Fundamentals of Operating Systems,Deepa Pillai,BOOK,CSE,2007
+TTL-0112,Advanced Control Systems (3rd Edition),Sudha Khan,BOOK,EEE,1998
+TTL-0113,Principles of Organic Chemistry,Kiran Bhat,BOOK,CHEM,2009
+TTL-0114,PhD Thesis: Studies in Data Structures,Manjula Iyer,THESIS,CSE,2019
+TTL-0115,NPTEL Lecture Series DVD: Computer Networks,Pavan Sharma,DVD,CSE,2014
+TTL-0116,Introduction to Analytical Chemistry,Divya Nair,BOOK,CHEM,2009
+TTL-0117,Principles of Microwave Engineering,Abhishek Murthy,BOOK,ECE,2021
+TTL-0118,Applied Power Systems,Pradeep Verma,BOOK,EEE,1999
+TTL-0119,Fundamentals of Solid State Physics (5th Edition),Pavithra Patil,BOOK,PHY,2001
+TTL-0120,Essentials of Classical Mechanics (3rd Edition) (4th Edition),Shilpa Chowdhury,BOOK,PHY,2016
+TTL-0121,A Textbook of Machine Learning,Tejas Chowdhury,BOOK,CSE,2006
+TTL-0122,A Textbook of Software Engineering,Ananya Pillai,BOOK,ISE,2025
+TTL-0123,Introduction to Power Systems,Sumanth Desai,BOOK,EEE,2002
+TTL-0124,NPTEL Lecture Series DVD: Marketing Management,Keerthi Naik,DVD,MBA,2022
+TTL-0125,Essentials of Electrical Machines,Mary Jain,BOOK,EEE,2002
+TTL-0126,Modern Embedded Systems,Varun Menon,BOOK,ECE,2021
+TTL-0127,A Textbook of Solid State Physics,Shruthi Reddy,BOOK,PHY,2003
+TTL-0128,NPTEL Lecture Series DVD: Compiler Design,Anil Naik,DVD,CSE,2025
+TTL-0129,Introduction to Heat Transfer,Manoj Nair,BOOK,ME,2003
+TTL-0130,Modern Surveying,Karthik Sharma,BOOK,CIVIL,2020
+TTL-0131,Principles of Control Systems,Asha Gowda,BOOK,EEE,1998
+TTL-0132,Advanced Organic Chemistry,Mahesh Prabhu,BOOK,CHEM,2002
+TTL-0133,NPTEL Lecture Series DVD: Power Systems,Ananya Reddy,DVD,EEE,2013
+TTL-0134,Indian Journal of Machine Design Vol 42 No 3,Naveen Sheikh,JOURNAL,ME,2016
+TTL-0135,Applied Quantum Mechanics (2nd Edition) (2nd Edition),Farhan Chowdhury,BOOK,PHY,2018
+TTL-0136,Handbook of Probability and Statistics,Rajesh Kamath,REFERENCE,MATH,2015
+TTL-0137,Handbook of Complex Analysis,Madhuri Menon,REFERENCE,MATH,2011
+TTL-0138,Introduction to Control Systems (5th Edition),Shivaraj Sharma,BOOK,EEE,2006
+TTL-0139,Handbook of Analytical Chemistry Part 9,Darshan Jain,REFERENCE,CHEM,2017
+TTL-0140,Essentials of Data Structures,Mary Patil,BOOK,CSE,2011
+TTL-0141,Principles of Surveying,Chetan Desai,BOOK,CIVIL,2016
+TTL-0142,Modern Concrete Technology,Nikhil Rao,BOOK,CIVIL,2006
+TTL-0143,PhD Thesis: Studies in Data Mining Part 2,Varun Gowda,THESIS,ISE,2003
+TTL-0144,Modern Renewable Energy,Harish Sharma,BOOK,EEE,2001
+TTL-0145,Indian Journal of Cloud Computing Vol 28 No 4,Sowmya Yadav,JOURNAL,ISE,2003
+TTL-0146,Applied Operations Research,Ganesh Singh,BOOK,MBA,2021
+TTL-0147,Fundamentals of Machine Learning,Pavan Agarwal,BOOK,CSE,2006
+TTL-0148,Principles of Data Mining,Ravi Naik,BOOK,ISE,2013
+TTL-0149,Advanced Transportation Engineering (4th Edition),Anil Pillai,BOOK,CIVIL,2002
+TTL-0150,Essentials of Surveying,Roopa Kulkarni,BOOK,CIVIL,2017
+TTL-0151,Introduction to Control Systems (5th Edition) (2nd Edition),Mahesh Desai,BOOK,EEE,2021
+TTL-0152,Introduction to Database Systems (2nd Edition),Spoorthi Pillai,BOOK,CSE,2008
+TTL-0153,Principles of Polymer Science (3rd Edition),Kavya Desai,BOOK,CHEM,2009
+TTL-0154,Fundamentals of Microwave Engineering,Anil Setty,BOOK,ECE,2002
+TTL-0155,PhD Thesis: Studies in Organisational Behaviour,Mary Agarwal,THESIS,MBA,2008
+TTL-0156,Indian Journal of Thermodynamics Vol 12 No 3,Yamini Desai,JOURNAL,ME,2006
+TTL-0157,Fundamentals of Numerical Methods,Sandeep Rao,BOOK,MATH,2021
+TTL-0158,Handbook of Electrical Machines Part 8,Harish Joshi,REFERENCE,EEE,2020
+TTL-0159,PhD Thesis: Studies in Discrete Mathematics,Shilpa Singh,THESIS,MATH,2013
+TTL-0160,Advanced Power Electronics (4th Edition),Prakash Patil,BOOK,EEE,2002
+TTL-0161,A Textbook of Cloud Computing,Shivaraj Desai,BOOK,ISE,2018
+TTL-0162,Essentials of Machine Design,Sindhu Nair,BOOK,ME,2018
+TTL-0163,Handbook of Analytical Chemistry Part 5,Abhishek Agarwal,REFERENCE,CHEM,2013
+TTL-0164,Principles of Surveying (4th Edition),Megha Kumar,BOOK,CIVIL,2020
+TTL-0165,Handbook of Optics Part 2,Varun Nair,REFERENCE,PHY,2000
+TTL-0166,Advanced Information Security (2nd Edition),Sachin Acharya,BOOK,ISE,2001
+TTL-0167,Handbook of Thermodynamics Part 8,Divya Iyer,REFERENCE,ME,2001
+TTL-0168,Introduction to Organisational Behaviour,Shilpa Chowdhury,BOOK,MBA,2008
+TTL-0169,Applied Electrical Machines,Santosh Menon,BOOK,EEE,2013
+TTL-0170,A Textbook of Machine Design,Sahana Khan,BOOK,ME,2020
+TTL-0171,Principles of Database Systems,Varsha Jain,BOOK,CSE,2017
+TTL-0172,Applied Solid State Physics,Darshan Jain,BOOK,PHY,2004
+TTL-0173,A Textbook of Analytical Chemistry,Sumanth Reddy,BOOK,CHEM,2001
+TTL-0174,A Textbook of Solid State Physics (4th Edition),Mohammed Yadav,BOOK,PHY,2007
+TTL-0175,Introduction to Machine Learning,Naveen Acharya,BOOK,CSE,2024
+TTL-0176,Fundamentals of VLSI Design (2nd Edition),Rajesh Acharya,BOOK,ECE,2000
+TTL-0177,Essentials of VLSI Design,Imran Sheikh,BOOK,ECE,2000
+TTL-0178,Essentials of Computer Networks,Varsha Kumar,BOOK,CSE,2019
+TTL-0179,Modern Quantum Mechanics,Prakash Gowda,BOOK,PHY,2018
+TTL-0180,PhD Thesis: Studies in Manufacturing Processes,Bhavana Kamath,THESIS,ME,2024
+TTL-0181,Applied Concrete Technology,Sudha Naik,BOOK,CIVIL,2023
+TTL-0182,Essentials of Organisational Behaviour (4th Edition),Harish Acharya,BOOK,MBA,2006
+TTL-0183,Applied Analytical Chemistry,Sumanth Patil,BOOK,CHEM,2009
+TTL-0184,Modern Solid State Physics (4th Edition),Prakash Shetty,BOOK,PHY,2021
+TTL-0185,A Textbook of Geotechnical Engineering (2nd Edition),Rajesh Reddy,BOOK,CIVIL,2002
+TTL-0186,A Textbook of Software Engineering (2nd Edition),Prakash Agarwal,BOOK,ISE,2009
+TTL-0187,A Textbook of Discrete Mathematics,Ganesh Sheikh,BOOK,MATH,2016
+TTL-0188,Introduction to Thermodynamics (5th Edition),Mohammed Reddy,BOOK,ME,2018
+TTL-0189,Introduction to Thermodynamics (5th Edition) (4th Edition),Sneha Gowda,BOOK,ME,2016
+TTL-0190,Essentials of Physical Chemistry,Pavithra Sharma,BOOK,CHEM,1998
+TTL-0191,Essentials of VLSI Design (4th Edition),Abhishek Kulkarni,BOOK,ECE,1999
+TTL-0192,NPTEL Lecture Series DVD: Concrete Technology,Shilpa Bhat,DVD,CIVIL,2011
+TTL-0193,Advanced Electrical Machines (4th Edition),Manjula Sheikh,BOOK,EEE,2001
+TTL-0194,Applied Compiler Design,Vidya Pillai,BOOK,CSE,2003
+TTL-0195,Indian Journal of Electrical Machines Vol 42 No 1,Rohit Kulkarni,JOURNAL,EEE,2024
+TTL-0196,Fundamentals of Compiler Design,Kiran Singh,BOOK,CSE,2009
+TTL-0197,Indian Journal of Microwave Engineering Vol 28 No 2,Girish Chowdhury,JOURNAL,ECE,2014
+TTL-0198,Applied Manufacturing Processes,Pooja Bhat,BOOK,ME,2009
+TTL-0199,Indian Journal of Classical Mechanics Vol 42 No 2,Kavya Singh,JOURNAL,PHY,2019
+TTL-0200,Indian Journal of Database Systems Vol 34 No 2,Prakash Joshi,JOURNAL,CSE,2011
+TTL-0201,Fundamentals of Analytical Chemistry,Rohit Patil,BOOK,CHEM,1999
+TTL-0202,Applied VLSI Design (4th Edition),Varun Nair,BOOK,ECE,2000
+TTL-0203,Modern Control Systems,Pavithra Reddy,BOOK,EEE,2021
+TTL-0204,Indian Journal of Fluid Mechanics Vol 29 No 2,Yashwanth Rao,JOURNAL,ME,2013
+TTL-0205,Handbook of Polymer Science,Deepak Kamath,REFERENCE,CHEM,2002
+TTL-0206,Indian Journal of Signals and Systems Vol 48 No 4,Anil Acharya,JOURNAL,ECE,2020
+TTL-0207,PhD Thesis: Studies in Complex Analysis,Rohit Menon,THESIS,MATH,2005
+TTL-0208,Advanced Organisational Behaviour,Anitha Sharma,BOOK,MBA,2023
+TTL-0209,Principles of Heat Transfer (4th Edition),Vikram Pillai,BOOK,ME,2024
+TTL-0210,Fundamentals of Data Structures,Manoj Yadav,BOOK,CSE,2021
+TTL-0211,Advanced Marketing Management (3rd Edition),Joseph Menon,BOOK,MBA,2001
+TTL-0212,Principles of Renewable Energy,Sowmya Agarwal,BOOK,EEE,2018
+TTL-0213,A Textbook of Power Electronics,Pavithra Sharma,BOOK,EEE,2024
+TTL-0214,Introduction to Cloud Computing,Sachin Joshi,BOOK,ISE,2022
+TTL-0215,Modern Quantum Mechanics (4th Edition),Mohammed Singh,BOOK,PHY,2009
+TTL-0216,NPTEL Lecture Series DVD: Probability and Statistics,Karthik Agarwal,DVD,MATH,2000
+TTL-0217,Introduction to Computer Networks,Darshan Acharya,BOOK,CSE,2015
+TTL-0218,Essentials of Solid State Physics (4th Edition),Santosh Kulkarni,BOOK,PHY,2004
+TTL-0219,Advanced Thermodynamics (5th Edition),Yashwanth Chowdhury,BOOK,ME,2009
+TTL-0220,Essentials of Surveying (2nd Edition),Rekha Kulkarni,BOOK,CIVIL,2006
+TTL-0221,Advanced Control Systems (2nd Edition),Pooja Chowdhury,BOOK,EEE,2017
+TTL-0222,Modern Marketing Management,Nandini Pillai,BOOK,MBA,1998
+TTL-0223,A Textbook of Database Systems,Basavaraj Kumar,BOOK,CSE,2000
+TTL-0224,Handbook of Quantum Mechanics,Geetha Agarwal,REFERENCE,PHY,2016
+TTL-0225,Fundamentals of Transportation Engineering,Sneha Menon,BOOK,CIVIL,2006
+TTL-0226,Fundamentals of Manufacturing Processes (3rd Edition),Imran Singh,BOOK,ME,2008
+TTL-0227,A Textbook of Digital Communication,Asha Bhat,BOOK,ECE,2025
+TTL-0228,Applied Geotechnical Engineering (2nd Edition),Zoya Desai,BOOK,CIVIL,2001
+TTL-0229,Essentials of Quantum Mechanics (3rd Edition),Yashwanth Chowdhury,BOOK,PHY,2016
+TTL-0230,PhD Thesis: Studies in Transportation Engineering,Anil Yadav,THESIS,CIVIL,2002
+TTL-0231,Modern Structural Analysis,Rohit Verma,BOOK,CIVIL,2016
+TTL-0232,Modern Organic Chemistry (5th Edition),Rekha Rao,BOOK,CHEM,2006
+TTL-0233,PhD Thesis: Studies in Electrical Machines,Imran Pillai,THESIS,EEE,2022
+TTL-0234,Principles of Digital Communication,Ganesh Kulkarni,BOOK,ECE,2023
+TTL-0235,Advanced Optics,Basavaraj Prabhu,BOOK,PHY,2024
+TTL-0236,Applied Analytical Chemistry (5th Edition),Ramya Murthy,BOOK,CHEM,2003
+TTL-0237,Handbook of Thermodynamics Part 8 Part 9,Darshan Khan,REFERENCE,ME,2023
+TTL-0238,Introduction to Data Mining,Rahul Acharya,BOOK,ISE,2011
+TTL-0239,Essentials of Solid State Physics (3rd Edition),Pavan Prabhu,BOOK,PHY,2003
+TTL-0240,Handbook of Information Security,Sahana Kamath,REFERENCE,ISE,2011
+TTL-0241,Fundamentals of Structural Analysis,Pavan Naik,BOOK,CIVIL,2022
+TTL-0242,PhD Thesis: Studies in Polymer Science,Priya Shetty,THESIS,CHEM,2015
+TTL-0243,Applied Structural Analysis (4th Edition),Mohammed Shetty,BOOK,CIVIL,2015
+TTL-0244,A Textbook of Operating Systems,Rahul Acharya,BOOK,CSE,2002
+TTL-0245,Handbook of Operating Systems,Mohammed Prabhu,REFERENCE,CSE,2002
+TTL-0246,Advanced Fluid Mechanics,Sindhu Setty,BOOK,ME,1999
+TTL-0247,Essentials of Software Engineering,Nikhil Menon,BOOK,ISE,2016
+TTL-0248,Indian Journal of Polymer Science Vol 42 No 1,Chetan Pillai,JOURNAL,CHEM,2013
+TTL-0249,Indian Journal of Solid State Physics Vol 34 No 2,Manoj Sharma,JOURNAL,PHY,2025
+TTL-0250,Advanced Linear Algebra,Rahul Gowda,BOOK,MATH,2023
+TTL-0251,Advanced Compiler Design,Girish Yadav,BOOK,CSE,2004
+TTL-0252,Principles of Financial Management,Mahesh Chowdhury,BOOK,MBA,2009
+TTL-0253,Modern Renewable Energy (5th Edition),Mary Acharya,BOOK,EEE,2004
+TTL-0254,Modern Renewable Energy (5th Edition) (5th Edition),Sudha Nair,BOOK,EEE,2012
+TTL-0255,Essentials of Structural Analysis,Harshitha Kulkarni,BOOK,CIVIL,2002
+TTL-0256,Fundamentals of Information Security,Vidya Reddy,BOOK,ISE,2011
+TTL-0257,Modern Embedded Systems (4th Edition),Ayesha Rao,BOOK,ECE,2023
+TTL-0258,Introduction to Web Technologies,Megha Patil,BOOK,ISE,2003
+TTL-0259,NPTEL Lecture Series DVD: Discrete Mathematics Part 8,Chetan Jain,DVD,MATH,2022
+TTL-0260,PhD Thesis: Studies in Control Systems,Pavan Singh,THESIS,EEE,2019
+TTL-0261,Advanced Financial Management,Sandeep Kamath,BOOK,MBA,2024
+TTL-0262,Advanced Electrical Machines (3rd Edition),Nikhil Reddy,BOOK,EEE,2013
+TTL-0263,A Textbook of Computer Networks,Rekha Acharya,BOOK,CSE,2000
+TTL-0264,Introduction to Control Systems (5th Edition) (3rd Edition),Chetan Yadav,BOOK,EEE,2006
+TTL-0265,Fundamentals of Marketing Management,Asha Reddy,BOOK,MBA,2021
+TTL-0266,Fundamentals of Power Electronics (3rd Edition),Manoj Shetty,BOOK,EEE,2020
+TTL-0267,Essentials of Software Engineering (5th Edition),Santosh Hegde,BOOK,ISE,2008
+TTL-0268,Modern Surveying (4th Edition),Geetha Singh,BOOK,CIVIL,1998
+TTL-0269,Fundamentals of Classical Mechanics,Imran Reddy,BOOK,PHY,2014
+TTL-0270,Modern Solid State Physics (3rd Edition),Pradeep Setty,BOOK,PHY,2001
+TTL-0271,NPTEL Lecture Series DVD: Database Systems,Pavithra Sheikh,DVD,CSE,2012
+TTL-0272,NPTEL Lecture Series DVD: Thermodynamics,Rahul Khan,DVD,ME,2007
+TTL-0273,Essentials of Renewable Energy,Divya Patil,BOOK,EEE,2025
+TTL-0274,A Textbook of Data Mining,Darshan Patil,BOOK,ISE,2024
+TTL-0275,Introduction to Software Engineering,Mohammed Pillai,BOOK,ISE,2002
+TTL-0276,NPTEL Lecture Series DVD: Embedded Systems,Girish Chowdhury,DVD,ECE,1998
+TTL-0277,A Textbook of Optics,Divya Reddy,BOOK,PHY,2024
+TTL-0278,Fundamentals of Physical Chemistry,Pavithra Setty,BOOK,CHEM,2006
+TTL-0279,Fundamentals of Marketing Management (3rd Edition),Rekha Joshi,BOOK,MBA,2001
+TTL-0280,Applied Operations Research (4th Edition),Rahul Murthy,BOOK,MBA,2013
+TTL-0281,A Textbook of Surveying,Zoya Reddy,BOOK,CIVIL,2023
+TTL-0282,Essentials of Organic Chemistry,Mary Bhat,BOOK,CHEM,2008
+TTL-0283,Advanced Electrical Machines (2nd Edition),Abhishek Setty,BOOK,EEE,2019
+TTL-0284,Essentials of Software Engineering (4th Edition),Vidya Menon,BOOK,ISE,2010
+TTL-0285,Principles of Machine Learning,Pavithra Nair,BOOK,CSE,1999
+TTL-0286,NPTEL Lecture Series DVD: Information Security,Fathima Iyer,DVD,ISE,2009
+TTL-0287,Advanced Machine Design,Pradeep Kulkarni,BOOK,ME,2021
+TTL-0288,Essentials of Organic Chemistry (2nd Edition),Harish Setty,BOOK,CHEM,2000
+TTL-0289,PhD Thesis: Studies in Solid State Physics,Sumanth Gowda,THESIS,PHY,2010
+TTL-0290,Advanced Classical Mechanics,Sindhu Iyer,BOOK,PHY,2011
+TTL-0291,Advanced Structural Analysis,Meena Agarwal,BOOK,CIVIL,2003
+TTL-0292,Indian Journal of Machine Learning Vol 40 No 2,Fathima Nair,JOURNAL,CSE,2018
+TTL-0293,NPTEL Lecture Series DVD: Physical Chemistry,Nikhil Shetty,DVD,CHEM,2023
+TTL-0294,A Textbook of Marketing Management,Girish Hegde,BOOK,MBA,2012
+TTL-0295,Principles of Organisational Behaviour,Farhan Hegde,BOOK,MBA,2019
+TTL-0296,Principles of Power Electronics,Vikram Desai,BOOK,EEE,2016
+TTL-0297,Advanced Business Analytics (5th Edition),Keerthi Kulkarni,BOOK,MBA,2024
+TTL-0298,Indian Journal of Heat Transfer Vol 31 No 4,Varun Reddy,JOURNAL,ME,2007
+TTL-0299,Introduction to Data Mining (5th Edition),Sumanth Sharma,BOOK,ISE,2018
+TTL-0300,Modern Operating Systems,Shruthi Yadav,BOOK,CSE,2020

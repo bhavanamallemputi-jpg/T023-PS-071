@@ -1,0 +1,72 @@
+partner_id,isbn,title,ill_charge,replacement_price
+PTR-01,9787323067855,Research Advances in Geotechnical Engineering,150.00,450.00
+PTR-02,9786886396754,Research Advances in Quantum Mechanics,50.00,1260.00
+PTR-01,9789047939373,Lectures on Business Analytics,200.00,2330.00
+PTR-04,9789047939373,Lectures on Business Analytics,200.00,2330.00
+PTR-01,9781909688531,Lectures on Computer Networks,75.00,830.00
+PTR-04,9781909688531,Lectures on Computer Networks,50.00,830.00
+PTR-01,9787158054797,Lectures on Physical Chemistry,50.00,2500.00
+PTR-03,9787158054797,Lectures on Physical Chemistry,200.00,2500.00
+PTR-03,9783985296334,Research Advances in Geotechnical Engineering,300.00,1420.00
+PTR-04,9783985296334,Research Advances in Geotechnical Engineering,250.00,1420.00
+PTR-02,9784375835944,Selected Papers in Numerical Methods,200.00,2180.00
+PTR-03,9784375835944,Selected Papers in Numerical Methods,50.00,2180.00
+PTR-04,9784375835944,Selected Papers in Numerical Methods,150.00,2180.00
+PTR-01,9787588225489,Selected Papers in Organic Chemistry,250.00,1960.00
+PTR-02,9782468736503,Research Advances in Power Electronics,50.00,410.00
+PTR-04,9782468736503,Research Advances in Power Electronics,75.00,410.00
+PTR-02,9786311257233,Lectures on Probability and Statistics,75.00,570.00
+PTR-03,9781004699311,Research Advances in Numerical Methods,50.00,2330.00
+PTR-04,9781004699311,Research Advances in Numerical Methods,150.00,2330.00
+PTR-01,9783457093539,Lectures on Organisational Behaviour,75.00,1720.00
+PTR-04,9783457093539,Lectures on Organisational Behaviour,100.00,1720.00
+PTR-01,9782292388193,Monograph on Quantum Mechanics,200.00,2990.00
+PTR-04,9782292388193,Monograph on Quantum Mechanics,250.00,2990.00
+PTR-01,9788618755819,Monograph on Data Mining,75.00,1550.00
+PTR-04,9788618755819,Monograph on Data Mining,200.00,1550.00
+PTR-03,9789135437285,Monograph on Data Structures,75.00,2560.00
+PTR-01,9786437856369,Selected Papers in Business Analytics,150.00,2290.00
+PTR-02,9786437856369,Selected Papers in Business Analytics,150.00,2290.00
+PTR-04,9786437856369,Selected Papers in Business Analytics,100.00,2290.00
+PTR-02,9785601445077,Research Advances in Database Systems,200.00,2530.00
+PTR-03,9785601445077,Research Advances in Database Systems,300.00,2530.00
+PTR-04,9785177670890,Lectures on Organic Chemistry,100.00,2910.00
+PTR-01,9783368081920,Research Advances in VLSI Design,75.00,1300.00
+PTR-03,9783368081920,Research Advances in VLSI Design,50.00,1300.00
+PTR-03,9787546304687,Research Advances in Machine Learning,200.00,1280.00
+PTR-04,9787546304687,Research Advances in Machine Learning,150.00,1280.00
+PTR-01,9786779432739,Lectures on Operations Research,200.00,1910.00
+PTR-02,9786779432739,Lectures on Operations Research,250.00,1910.00
+PTR-01,9786970892594,Research Advances in Optics,100.00,2440.00
+PTR-03,9786970892594,Research Advances in Optics,50.00,2440.00
+PTR-01,9783975201362,Research Advances in Organisational Behaviour,150.00,2090.00
+PTR-03,9783975201362,Research Advances in Organisational Behaviour,100.00,2090.00
+PTR-04,9783975201362,Research Advances in Organisational Behaviour,50.00,2090.00
+PTR-01,9786429472426,Research Advances in Probability and Statistics,50.00,450.00
+PTR-04,9786429472426,Research Advances in Probability and Statistics,100.00,450.00
+PTR-01,9783672847973,Monograph on Power Electronics,300.00,1920.00
+PTR-03,9783672847973,Monograph on Power Electronics,300.00,1920.00
+PTR-02,9782539184404,Research Advances in Cloud Computing,100.00,2960.00
+PTR-04,9782539184404,Research Advances in Cloud Computing,100.00,2960.00
+PTR-02,9789613746632,Lectures on Information Security,250.00,2720.00
+PTR-03,9789613746632,Lectures on Information Security,200.00,2720.00
+PTR-04,9789613746632,Lectures on Information Security,200.00,2720.00
+PTR-01,9785246867533,Lectures on Heat Transfer,150.00,1760.00
+PTR-01,9783697900939,Monograph on Surveying,100.00,2620.00
+PTR-03,9783697900939,Monograph on Surveying,250.00,2620.00
+PTR-03,9785397202173,Lectures on Classical Mechanics,150.00,1730.00
+PTR-04,9785397202173,Lectures on Classical Mechanics,50.00,1730.00
+PTR-01,9780482988132,Lectures on Information Security,200.00,2440.00
+PTR-03,9780482988132,Lectures on Information Security,50.00,2440.00
+PTR-04,9780482988132,Lectures on Information Security,300.00,2440.00
+PTR-03,9788445551080,Research Advances in Control Systems,150.00,410.00
+PTR-04,9788445551080,Research Advances in Control Systems,50.00,410.00
+PTR-01,9789314081836,Monograph on Discrete Mathematics,250.00,1950.00
+PTR-04,9789314081836,Monograph on Discrete Mathematics,150.00,1950.00
+PTR-01,9785341378977,Research Advances in Machine Design,200.00,1780.00
+PTR-04,9785341378977,Research Advances in Machine Design,100.00,1780.00
+PTR-02,9787632032345,Selected Papers in Manufacturing Processes,100.00,1140.00
+PTR-03,9787632032345,Selected Papers in Manufacturing Processes,250.00,1140.00
+PTR-04,9787632032345,Selected Papers in Manufacturing Processes,150.00,1140.00
+PTR-03,9782218555064,Selected Papers in Numerical Methods,200.00,1270.00
+PTR-04,9786886396754,Research Advances in Quantum Mechanics,100.00,1260.00
